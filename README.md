@@ -325,6 +325,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [InVideo AI](https://invideo.io) — Turn text scripts into polished videos with AI voiceovers and stock footage. `#free`
 - [Opus Clip](https://opus.pro) — Automatically repurpose long-form videos into viral short clips. `#free`
 - [Captions](https://captions.ai) — AI video creator with auto-captions, eye contact correction, and translation.
+- [Clout](https://tryclout.ai/) — Create AI characters, generate images and videos, and build faceless content for social channels.
 
 ### AI Avatars & Presenters
 
